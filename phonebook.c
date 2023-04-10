@@ -166,6 +166,7 @@ void srchinfo(FILE *fPtr)
                 }
             }
             printf("-------%d Person Found!--------\n", i);
+		break;
 
         case 3:
             printf("Enter the phone you want to search: ");

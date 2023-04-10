@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//Ahmet Faruk Yuksektepe 210101038
+
 
 typedef struct phBook
 {
